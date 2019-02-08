@@ -8,8 +8,7 @@ public class OneToNum
         Scanner in = new Scanner(System.in);
         
         double num = in.nextDouble();
-                
-        // Use a for loop to print out the numbers.
+ 
         int i;
         for(i = 1; i < num + 1; i = i + 1)
             System.out.print(i + " ");
