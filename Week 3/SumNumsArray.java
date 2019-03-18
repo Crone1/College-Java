@@ -1,4 +1,4 @@
-public class Test
+public class SumNumsArray
 {
     public static int getSum(int [] array)
     {
