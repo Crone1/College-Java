@@ -1,4 +1,4 @@
-public class Catch
+public class CatchAllExceptions
 {
    public static void main(String [] args)
         {
