@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AboveAverage
+public class AboveAverageNums
 {
     public static void main(String [] args)
     {
