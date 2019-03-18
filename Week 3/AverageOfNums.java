@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class OnlyAverage
+public class AverageOfNums
 {
     public static void main(String [] args)
     {
