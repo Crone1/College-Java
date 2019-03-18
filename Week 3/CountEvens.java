@@ -1,4 +1,4 @@
-public class Test
+public class CountEvens
 {
     public static int countEven(int [] array)
     {
