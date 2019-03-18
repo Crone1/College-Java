@@ -1,4 +1,4 @@
-public class Word
+public class CompareChar2First
 {
     public static boolean isFirstLetter(String word, char letter)
     {
