@@ -1,4 +1,4 @@
-public class miniHangman
+public class oneGuessHangman
 {
     public static boolean containsLetter(String word, char letter)
     {
