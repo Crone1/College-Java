@@ -1,21 +1,48 @@
 # Overview
-This repository contains the code I wrote in the college programming module based around Java. This module ran for a full semester and the programmes written can be found under the repective weeks they were written. I have further broken the code within each week into the specific topics that were covered within each week.
+This repository contains Java code relating to excercises I completed during my time learning the programming language *Java*.
 
-This module was titled **'Object Oriented Programming'** and the content contained within it is based around this paradigm.
-
+---
 # Folder Breakdown
-Throughout this course, the topics covered the basics of Java and also explored further programming contepts. These content covered is broken down as follows:
+The files in this repo are divided based on the respective week of the module that they were completed in.
 
-- Week 1 - datatypes, if statements, and running java programmes,
+Each week, there would be a number of problems, revolving around a certain Java concept, which needed to be solved.
 
-- Week 2 - methods, while loops and for loops,
+### [Week 1](Week_01)
+This first week's excercises introduced the basics of java, such as:
+- How to run a java programme
+- Datatypes like:
+	* [Doubles](Week_01/Doubles)
+	* [Integers](Week_01/Integers)
+	* [Strings](Week_01/Strings)
+- [If statements](Week_01/If_statements)
 
-- Week 3 - intArrays and other practice programmes,
+### [Week 2](Week_02)
+This weeks excercises expanded on this by introducing:
+- [Methods](Week_02/Methods)
+- [While loops](Week_02/While_loops)
+- [For loops](Week_02/For_Loops)
 
-- Week 4 - classes, arrays, the command line, and exceptions,
+### [Week 3](Week_03)
+This weeks excercises used concepts seen in previous weeks alongside introducing another datatype in:
+- [IntArrays](Week_03/Int_Arrays)
 
-- Week 5 - classes in more detail, interfaces, sentiment analysis alorithms and other practice programmes,
+### [Week 4](Week_04)
+This weeks excercises stepped more into the object orientated programming side of things, including:
+- [Classes](Week_04/Classes_and_Arrays)
+- [Printing to the command line](Week_04/Command_Line)
+- [Exceptions](Week_04/Exceptions)
 
-- Week 6 - maps, hashSets and other collections, and generic classes,
+### [Week 5](Week_05)
+This weeks excercises continued touching upon Object Oriented Programming concepts, such as:
+- [Classes](Week_05/Classes)
+- [Interfaces](Week_05/Interfaces)
+- [Reading and writing Files](Week_05/Files)
 
-- Week 7 - inheritance.
+### [Week 6](Week_06)
+This weeks excercises focused on concepts specific to Java, introducing:
+- [Collections](Week_06/Collections)
+- [Generic classes](Week_06/Generics)
+
+### [Week 7](Week_07)
+This weeks excercises again expanded on the concept of classes and introduced:
+- [Inheritance](Week_07/Inheritance)
